@@ -1,0 +1,56 @@
+/*------ CSS trang chính ------*/
+.main-company-background {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.main-index-content {
+	border: 1px solid black;
+	border-radius: 5px;
+	font-size: larger;
+	font-weight: bold;
+}
+
+.login-form {
+    background-color: white;
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+.login-form div {
+    font-weight: bold;
+    color: black;
+}
+
+.login-title {
+    color: black;
+}
+
+body{ 
+	min-height: 100vh; 	
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+}
+
+/*------ CSS nhân viên quản lý ------*/
+.ql-card {
+	background-color: white;
+	border-width: 5px;
+	border-color: black;
+	color:black;
+}
+
+.ql-card-footer {
+	border-width: 2px;
+	background-color: black;
+	color:white;
+}
+
+/*------ CSS chung ------*/
+body { 
+	min-height: 100vh; 	
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+}
