@@ -14,7 +14,8 @@ Dự án gồm 3 phần chính: <br>
 
 ## Installation
 - Dự án sử dụng XAMPP để cài đặt localhost
-- Mã nguồn được đặt trong thư mục htdocs tại nơi cài đặt XAMPP
+- Database của dự án được thể hiện ở file SQL script `giasuapp.sql`
+- Mã nguồn được đặt trong thư mục `htdocs` tại nơi cài đặt XAMPP
 
 ## Authors
 Dự án được thực hiện bởi nhóm gồm 3 thành viên:
