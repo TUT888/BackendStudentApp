@@ -13,8 +13,8 @@ Dự án gồm 3 phần chính: <br>
 - Phần giao diện tương tác với cơ sở dữ liệu dành cho Admin
 
 ## Installation
-- Dự án được thực hiện trên `Android Studio Dolphin | 2021.3.1 Patch1`, các phiên bản Android Studio thấp hơn có thể sẽ không chạy được dự án
-- Dự án cài đặt localhost với XAMPP. Để lấy được dữ liệu từ server, cần phải thay đổi địa chỉ IP được lưu ở biến URL tại MainActivity.java thành địa chỉ IPv4 của máy
+- Dự án sử dụng XAMPP để cài đặt localhost
+- Mã nguồn được đặt trong thư mục htdocs tại nơi cài đặt XAMPP
 
 ## Authors
 Dự án được thực hiện bởi nhóm gồm 3 thành viên:
