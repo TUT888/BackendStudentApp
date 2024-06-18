@@ -26,4 +26,4 @@ Dự án được thực hiện bởi nhóm gồm 3 thành viên:
 - Dương Thủy Tiên [Github](https://github.com/tienduong-21)
 - Trương Hiểu San [Github](https://github.com/hs0512)
 
-Repository gốc khi đang thực hiện dự án: [THS-backendStudentApp (riêng tư)](https://github.com/hs0512/backendStudentApp)
+Repository gốc khi đang thực hiện dự án: [THS-backendStudentApp](https://github.com/hs0512/backendStudentApp)
