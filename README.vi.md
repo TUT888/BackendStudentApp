@@ -1,15 +1,18 @@
-# Backend for StudentApp and TutorApp
+# Web service for StudentApp and TutorApp
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/TUT888/WebService-TutorApp/blob/master/README.md)
+[![vi](https://img.shields.io/badge/lang-vi-red.svg)](https://github.com/TUT888/WebService-TutorApp/blob/master/README.vi.md)
+
 Dự án cuối kỳ môn "Phát triển ứng dụng di động"<br>
 Đề tài: Ứng dụng trung gian cung cấp dịch vụ tìm kiếm gia sư <br>
 
 Dự án gồm 3 phần chính: <br>
 - Học viên (Android Application), mã nguồn: https://github.com/TUT888/StudentApp
 - Gia sư (Android Application), mã nguồn: https://github.com/TUT888/TutorApp
-- Backend, mã nguồn: https://github.com/TUT888/BackendStudentApp
+- Web service, mã nguồn: https://github.com/TUT888/WebService-TutorApp
 
 ## Project Description
-**Đây là mã nguồn backend của dự án.** Bao gồm: <br> 
-- Web API cho ứng dụng Android
+**Đây là mã nguồn phần web service của dự án.** Bao gồm: <br> 
+- Web service API cho ứng dụng Android
 - Phần giao diện tương tác với cơ sở dữ liệu dành cho Admin
 
 ## Installation
@@ -23,4 +26,4 @@ Dự án được thực hiện bởi nhóm gồm 3 thành viên:
 - Dương Thủy Tiên [Github](https://github.com/tienduong-21)
 - Trương Hiểu San [Github](https://github.com/hs0512)
 
-Repository gốc khi đang thực hiện dự án: https://github.com/hs0512/backendStudentApp
+Repository gốc khi đang thực hiện dự án: [THS-backendStudentApp (riêng tư)](https://github.com/hs0512/backendStudentApp)
